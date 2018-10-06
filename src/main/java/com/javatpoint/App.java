@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "First change from Git Side...Wow" );
+        System.out.println( "Connected from Github with Jenkins" );
+	System.out.println( "We are testing automatic deployment" );
     }
 }
